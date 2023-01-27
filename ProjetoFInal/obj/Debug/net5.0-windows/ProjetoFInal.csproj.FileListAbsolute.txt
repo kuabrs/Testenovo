@@ -1,0 +1,5 @@
+C:\Users\20211011110001\source\repos\DiretoriaAcademica\ProjetoFInal\obj\Debug\net5.0-windows\ProjetoFInal.csproj.AssemblyReference.cache
+C:\Users\20211011110001\source\repos\DiretoriaAcademica\ProjetoFInal\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\20211011110001\source\repos\DiretoriaAcademica\ProjetoFInal\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\20211011110001\source\repos\DiretoriaAcademica\ProjetoFInal\obj\Debug\net5.0-windows\ProjetoFInal_MarkupCompile.cache
+C:\Users\20211011110001\source\repos\DiretoriaAcademica\ProjetoFInal\obj\Debug\net5.0-windows\ProjetoFInal_MarkupCompile.lref
